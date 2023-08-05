@@ -480,6 +480,7 @@ img {
   color: var(--color-cloud);
 }
 .container-media {
+  margin-right: 80px;
 }
 .title-media {
   font-family: var(--primary-font);
@@ -520,6 +521,30 @@ img {
 }
 .icon-end {
   fill: var(--color-cloud);
+}
+/* E-mail */
+.comment {
+  color: var(--color-white);
+  margin-bottom: 24px;
+}
+.form-input {
+}
+
+.bunnot-submite {
+  width: 165px;
+  height: 40px;
+  margin-left: 24px;
+  color: var(--color-white);
+  background-color: var(--color-iris);
+  border: solid 1px;
+  border-radius: 5px;
+  border-color: #4d5ae5;
+  padding-right: 16px;
+  padding-left: 24px;
+  padding-bottom: 8px;
+}
+.icon-telegramm {
+  margin-left: 16px;
 }
 /* modal-window */
 .container-window {
