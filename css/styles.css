@@ -523,6 +523,8 @@ img {
   fill: var(--color-cloud);
 }
 /* E-mail */
+.container-subscribe {
+}
 .comment {
   color: var(--color-white);
   margin-bottom: 16px;
@@ -556,11 +558,20 @@ img {
   color: var(--color-white);
   background-color: var(--color-iris);
   border: solid 1px;
-  border-radius: 5px;
   border-color: #4d5ae5;
   padding-right: 16px;
   padding-left: 24px;
   padding-bottom: 8px;
+  min-width: 165px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-weight: 500;
+  line-height: 1.5;
+  letter-spacing: 0.04em;
+  cursor: pointer;
+  border: none;
+  border-radius: 4px;
 }
 .icon-telegramm {
   margin-left: 16px;
