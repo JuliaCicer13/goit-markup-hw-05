@@ -524,6 +524,9 @@ img {
 }
 /* E-mail */
 .container-subscribe {
+  margin: auto;
+  display: flex;
+  justify-content: center;
 }
 .comment {
   color: var(--color-white);
@@ -536,6 +539,11 @@ img {
 .form {
   display: flex;
   gap: 24px;
+}
+.label {
+  margin: auto;
+  display: flex;
+  justify-content: center;
 }
 .form-input {
   width: 264px;
