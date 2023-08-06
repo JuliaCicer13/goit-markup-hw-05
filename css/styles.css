@@ -46,7 +46,7 @@ body {
 }
 .container {
   width: 1158px;
-  padding: 0 15px;
+
   margin: 0 auto;
 }
 .page-nav {
@@ -524,9 +524,6 @@ img {
 }
 /* E-mail */
 .container-subscribe {
-  margin: auto;
-  display: flex;
-  justify-content: center;
 }
 .comment {
   color: var(--color-white);
