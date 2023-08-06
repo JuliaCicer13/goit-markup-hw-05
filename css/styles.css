@@ -11,6 +11,8 @@
   --color-grey: #2e2f42;
   --color-white: #ffffff;
   --color-dairy: #fcfcfc;
+  --color-nave-blue-modal: #2e2f42;
+
   --primary-font: "Roboto", sans-serif;
   --logo-font: "Raleway", sans-serif;
 }
@@ -718,6 +720,10 @@ img {
 .textarea:focus {
   border-color: #4d5ae5;
 }
+.textarea::placeholder {
+  color: var(--color-light-slate);
+}
+
 .container-table-three {
   margin-bottom: 24px;
 }
