@@ -688,7 +688,7 @@ img {
 .input:focus {
   border-color: #4d5ae5;
 }
-.icon-man {
+.icon-table {
   position: absolute;
   left: 16px;
   top: 50%;
@@ -696,22 +696,7 @@ img {
   transition: fill 250ms cubic-bezier(0.4, 0, 0.2, 1);
   fill: #4d5ae5;
 }
-.icon-telebhone {
-  position: absolute;
-  left: 16px;
-  top: 50%;
-  transform: translateY(-50%);
-  transition: fill 250ms cubic-bezier(0.4, 0, 0.2, 1);
-  fill: #4d5ae5;
-}
-.icon-email {
-  position: absolute;
-  left: 16px;
-  top: 50%;
-  transform: translateY(-50%);
-  transition: fill 250ms cubic-bezier(0.4, 0, 0.2, 1);
-  fill: #4d5ae5;
-}
+
 /* PORTFOLIO */
 
 .section-portfolio {
