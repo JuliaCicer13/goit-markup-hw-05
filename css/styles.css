@@ -730,6 +730,7 @@ img {
 .container-table-three {
   margin-bottom: 24px;
 }
+
 .lable-checkbox {
   font-size: 12px;
   line-height: 1.17;
@@ -748,6 +749,7 @@ img {
   align-items: center;
   justify-content: center;
   fill: transparent;
+  margin-right: 4px;
 }
 .input-checked:checked + .lable-checkbox span {
   background-color: #404bbf;
