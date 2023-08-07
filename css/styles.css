@@ -724,7 +724,8 @@ img {
   border-color: #4d5ae5;
 }
 .textarea::placeholder {
-  color: var(--color-light-slate);
+  color: #8e8f99;
+  opacity: 0.5;
 }
 
 .container-table-three {
